@@ -12,7 +12,7 @@ simple, a little code with cmd, txt, bat files with some settings
 <br />
 
 ## third, now create a folder where you want to save your lock screen photos
-## Copy the path to the folder you created, and overwrite it with the C:\save part in txt file
+## Copy the path of the folder you created, and overwrite it with the C:\save part in txt file
 ## save the txt file, and replace the extension of the file from .txt to .bat
 <br />
 <br />
